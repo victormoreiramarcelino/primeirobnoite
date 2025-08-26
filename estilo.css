@@ -1,1 +1,27 @@
+body {          
+    color: white;              /* definido a cor do texto como branco */
+    background: black;         /*define a cor do fundo da página na cor preta */
+    margin: 10px;                  /*Zera o espaço próximo a margem da página */
+    font-family: "Times New Roman", sans-serif;   /* Alterar a fonte do Texto */
+    margin-bottom: 10px;         /* Ajustar a margem inferior da Página*/
+}
 
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
